@@ -1,16 +1,13 @@
-## Hi there 👋
+## bem vindos ao meu perfil
 
-<!--
-**luismartinelli/luismartinelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+eu sou o luis gustavo martinelli
 
-Here are some ideas to get you started:
+estou estudando na alura 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+desenvolvendo um trabalho na linguagem de javascript
+
+
+## voce pode entrar em contato comigo 
+
+0000110684693xsp@al.educacao.sp.gov.br
+
